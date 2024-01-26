@@ -1,5 +1,7 @@
 # sprig-holiday-case
 
+_Did you get a holiday case? Check here for an [assembly video](https://www.youtube.com/watch?v=OOyeM3elk7M)_
+
 ## Parts list
 
 - [BackPlate.stl](./parts/BackPlate.stl) (3d printed): This is the back side of the case that comes in 2 parts: one part mirrored for the other side of the Sprig main board. It should be printed with the nut traps facing down.
