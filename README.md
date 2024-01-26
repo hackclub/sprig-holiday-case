@@ -1,4 +1,6 @@
-# sprig-holiday-case
+# Sprig Holiday Case
+
+This repo documents all the open source components of the ShawnXSprig holiday case.
 
 _Did you get a holiday case? Check here for an [assembly video](https://www.youtube.com/watch?v=OOyeM3elk7M)_
 
