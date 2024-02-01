@@ -14,9 +14,11 @@ _Did you get a holiday case? Check here for an [assembly video](https://www.yout
 
 ## Printing parts
 
-All parts should be printed in PLA. If PETG is substituted, all parts should be PETG. So far, we've used:
+It's recommended that all parts be printed in PLA, as the frontplate is multi-color. If PETG is substituted, all parts should be PETG, as PLA and PETG do not adhere to each other. 
+All parts should be printed in PLA.  So far, we've used:
 
 - Prusament PLA Vanilla White
+- Prusament PLA White (substitute for vanilla white when vanilla white is out of stock)
 - Prusament PLA Lipstick Red
 
 The FrontPlate requires a color change on the last layer to print the snowman, snowflakes, and text in another color.
