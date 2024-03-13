@@ -1,3 +1,6 @@
+# this repository has been deprecated. It's contents can now be found at https://github.com/hackclub/sprig/tree/main/hardware
+---
+
 # Sprig Holiday Case
 
 This repo documents all the open source components of the ShawnXSprig holiday case.
